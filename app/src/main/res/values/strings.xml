@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidStarterProject</string>
+    <string name="ui">UI</string>
 </resources>
